@@ -9,5 +9,8 @@
     "express": "^4.18.2",
     "nodemon": "^2.0.20",
     "pug": "^3.0.2"
-  }
+  },
+  "publishConfig": {
+  "@mcampbe3:registry": "https://npm.pkg.github.com"
+}
 }
