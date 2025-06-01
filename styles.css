@@ -44,6 +44,7 @@ p {
 .logo,
 .btn-primary {
   margin-right: 10px;
+  text-decoration: none;
 }
 
 .navbar-brand a {
